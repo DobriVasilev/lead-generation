@@ -406,6 +406,9 @@ print(f"Data has been saved to {csv_file_path}")
 
 Now the process is quite the same.
 
+You'll use this API for this:
+https://zylalabs.com/api-marketplace/data/website+contacts+scraper+api/2396
+
 Create another script that you want to save as `phone.py` in an easy-to-access folder.
 
 There paste this:
@@ -593,7 +596,9 @@ All that's left is to follow the email automation course in the AAA campus to cr
 
 ****_BYE_****
 
-****P.S.**** You can use the below JSON to upload it in make.com then change all the info to match your exact APIs and other info.
+****P.S.**** You can use the below JSON to upload it in make.com then change all the info to match your exact APIs and other info. 
+
+****P.P.S.**** You'll notice that I also give GPT info from the company's X account as the contact scraper above gives you that info
 
 ```
 
