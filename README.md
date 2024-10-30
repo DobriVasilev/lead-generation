@@ -1,6 +1,12 @@
 # lead-generation
 Find, qualify, and contact domain names.
 
+With the tutorial below you'll be able to find thousands and thousands of business owners in minutes. 
+
+Then make sure they have cash to pay you by scraping their WHOLE website visits analytics, and then you'll scrape ALL of their privately accessible social accounts, email addresses, and phone numbers. 
+
+Lastly, you'll automate everything to send hundreds of personalized emails to all of those leads.
+
 In this tutorial, I'm using 2 APIs, 1 automaton (make.com), and 1 email auto sender (instantly.ai)
 
 All of them come out to $209 per month. If you don't have at least that then:
