@@ -32,7 +32,7 @@ To learn it just go to the AAA Campus in TRW then to Automated Outreach, then ch
 
 
 ## №2 Qualify Domains
-
+(keep in mind, depending on the configurations you can configure in LinkedIn Sales Navigator this step might be useless due to you already collecting high quality leads with over 10k monthly traffic and cash to pay you)
 
 Next step is making sure you're reaching out to businesses that can actually pay you something -> they have traffic coming (thus money flowing).
 
