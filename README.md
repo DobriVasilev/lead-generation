@@ -24,7 +24,9 @@ https://zylalabs.com/api-marketplace/finance/scraped+business+data+api/1280
 
 It'll allow you to find local business contacts in a specific radius. I haven't yet created a script that will automatically sort all the info but you can do it yourself. Don't be lazy go ask ChatGPT how to do that.
 
-Alternatively, if you don't want to use this method just go check the AAA campus in TRW and use their scraping method (what I'm doing).
+Alternatively, if you don't want to use this method just go check the AAA campus in TRW and use their scraping method (what I'm doing) - this method is much better in my opinion and cheaper.
+
+To learn it just go to the AAA Campus in TRW then to Automated Outreach, then check System 3. It guides you through creating a LinkedIn Sales Navigator account which allows you to scrape massive amounts of business owner leads.
 
 
 
